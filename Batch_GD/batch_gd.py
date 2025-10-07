@@ -3,7 +3,6 @@
 ## Importing libraries
 from math import sqrt
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.datasets import load_diabetes
 from sklearn.model_selection import train_test_split
